@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aashir-z.github.io/al-folio/sitemap.xml
